@@ -1,4 +1,4 @@
-# Typeinfo archives
+# Ghidra typeinfo archives
 
 ## How to generate winddk_7_32.gdt
 
